@@ -1,0 +1,6 @@
+Thank you to Alex Peterson for the Spacescape tool, used to generate the space skyboxes!
+http://alexcpeterson.com/spacescape/
+https://sourceforge.net/projects/spacescape/
+
+Used with MIT license.
+
